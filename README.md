@@ -11,4 +11,4 @@ Additionally, the program uses the delay function to introduce time delays in or
 
  _______________________________________________________________________________________________________________________
  
- ![test Light Stick ](https://user-images.githubusercontent.com/81490448/227623688-7d2c1014-4af9-453b-9f7a-28392c2c0b15.mp4)
+ ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/issues/1#issue-1639943730)
