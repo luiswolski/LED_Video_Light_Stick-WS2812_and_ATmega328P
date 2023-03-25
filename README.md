@@ -11,6 +11,15 @@ Additionally, the program uses the delay function to introduce time delays in or
 
  _______________________________________________________________________________________________________________________
  
+  ## PCB Render
+  ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/pcbrender.png)
+  
+  # PCB GIF animation, please wait a moment, the render is loading...
+  
+  ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/gifpcb.gif)
+
+ _______________________________________________________________________________________________________________________
+ 
   ## PCB details in Fusion360
   ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/pcb.png)
   
