@@ -11,6 +11,11 @@ Additionally, the program uses the delay function to introduce time delays in or
 
  _______________________________________________________________________________________________________________________
  
- ## Please wait a moment, the GIF is loading...
+  ## PCB details in Fusion360
+  ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/pcb.png)
+  
+ _______________________________________________________________________________________________________________________
+ 
+ ## Please wait a moment, the GIF of prototype is loading...
  
  ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/8915b421279ab538abd238087a27fbc55c82e310/video/Light%20Stick%20test.gif)
