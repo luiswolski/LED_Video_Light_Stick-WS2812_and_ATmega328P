@@ -17,7 +17,10 @@ Additionally, the program uses the delay function to introduce time delays in or
   # PCB GIF animation, please wait a moment, the render is loading...
   
   ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/gifpcb.gif)
-
+   _______________________________________________________________________________________________________________________
+ 
+  ## Flowchart
+  ![test Light Stick ](https://github.com/luiswolski/LED_Video_Light_Stick-WS2812_and_ATmega328P/blob/main/video/menusdiagram.png)
  _______________________________________________________________________________________________________________________
  
   ## PCB details in Fusion360
